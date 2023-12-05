@@ -16,6 +16,7 @@ Fitur yang Sudah sesuai:
 - Fitur CRUD ada di folder shopping_cart
 - ShoppingCart_models buat inisialisasi databasenya
 - database_helper buat fungsi create,read,update,delete
+- Inputan menggunakan double (ex:100.00)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
